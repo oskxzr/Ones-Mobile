@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ones.nz">
-    <img src="https://iili.io/2ZyE8bf.md.png" alt="Logo" width="200">
+    <img src="https://iili.io/2ZyE8bf.md.png" alt="Logo" width="400">
   </a>
 </p>
 
